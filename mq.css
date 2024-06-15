@@ -12,7 +12,10 @@
         max-width:70px;
     }
     #botao{
-        transform: translate(-90px);
+        transform: translate(-70px);
+    }
+    #txtbtn{
+        font-size: 0.8em;
     }
     p{
         max-width: 60%;

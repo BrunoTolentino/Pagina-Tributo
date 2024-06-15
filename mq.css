@@ -1,0 +1,18 @@
+@media screen and (max-width: 768px) {
+    *{
+        font-size: 0.9em;
+    }
+    div#heading{
+        width: 60%;
+    }
+    img#imagem{
+        max-width: 70%;
+    }
+    #flecha{
+        max-width:70px;
+    }
+    p{
+        max-width: 60%;
+        font-size: 0.8em;
+    }
+}

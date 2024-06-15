@@ -1,6 +1,6 @@
 @media screen and (max-width: 768px) {
     *{
-        font-size: 0.9em;
+        font-size: 1.1em;
     }
     div#heading{
         width: 60%;
@@ -10,6 +10,9 @@
     }
     #flecha{
         max-width:70px;
+    }
+    #botao{
+        transform: translate(-90px);
     }
     p{
         max-width: 60%;

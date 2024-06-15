@@ -1,6 +1,6 @@
 @media screen and (max-width: 768px) {
     *{
-        font-size: 1.1em;
+        font-size: 0.9em;
     }
     div#heading{
         width: 60%;
@@ -15,10 +15,10 @@
         transform: translate(-70px);
     }
     #txtbtn{
-        font-size: 0.7em;
+        font-size: 0.5em;
     }
     p{
         max-width: 60%;
-        font-size: 0.9em;
+        font-size: 0.7em;
     }
 }

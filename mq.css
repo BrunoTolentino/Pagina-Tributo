@@ -1,12 +1,13 @@
 @media screen and (max-width: 768px) {
     *{
-        font-size: 0.9em;
+        font-size: 1em;
     }
     div#heading{
-        width: 60%;
+        width: 70%;
+        font-size: 1.1em;
     }
     img#imagem{
-        max-width: 80%;
+        max-width: 90%;
     }
     #flecha{
         max-width:70px;
@@ -15,10 +16,10 @@
         transform: translate(-70px);
     }
     #txtbtn{
-        font-size: 0.6em;
+        font-size: 0.8em;
     }
     p{
-        max-width: 60%;
-        font-size: 0.8em;
+        max-width: 70%;
+        font-size: 1em;
     }
 }
